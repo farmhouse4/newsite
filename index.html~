@@ -33,16 +33,16 @@ img.emoji {
 <link rel='stylesheet' id='genericons-css'  href='wp-content/themes/twentysixteen/genericons/genericons5589.css?ver=3.4.1' type='text/css' media='all' />
 <link rel='stylesheet' id='twentysixteen-style-css'  href='wp-content/themes/twentysixteen/style167b.css?ver=4.6' type='text/css' media='all' />
 <!--[if lt IE 10]>
-<link rel='stylesheet' id='twentysixteen-ie-css'  href='http://farmhousesinksforsale.com/wp-content/themes/twentysixteen/css/ie.css?ver=20160816' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='http://10.0.0.6/wordpress/wp-content/themes/twentysixteen/css/ie.css?ver=20160816' type='text/css' media='all' />
 <![endif]-->
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='twentysixteen-ie8-css'  href='http://farmhousesinksforsale.com/wp-content/themes/twentysixteen/css/ie8.css?ver=20160816' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='http://10.0.0.6/wordpress/wp-content/themes/twentysixteen/css/ie8.css?ver=20160816' type='text/css' media='all' />
 <![endif]-->
 <!--[if lt IE 8]>
-<link rel='stylesheet' id='twentysixteen-ie7-css'  href='http://farmhousesinksforsale.com/wp-content/themes/twentysixteen/css/ie7.css?ver=20160816' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='http://10.0.0.6/wordpress/wp-content/themes/twentysixteen/css/ie7.css?ver=20160816' type='text/css' media='all' />
 <![endif]-->
 <!--[if lt IE 9]>
-<script type='text/javascript' src='http://farmhousesinksforsale.com/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
+<script type='text/javascript' src='http://10.0.0.6/wordpress/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
 <![endif]-->
 <script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
@@ -99,7 +99,7 @@ img.emoji {
 
 	<aside id="secondary" class="sidebar widget-area" role="complementary">
 		<section id="search-2" class="widget widget_search">
-<form role="search" method="get" class="search-form" action="http://farmhousesinksforsale.com/">
+<form role="search" method="get" class="search-form" action="http://10.0.0.6/wordpress/">
 	<label>
 		<span class="screen-reader-text">Search for:</span>
 		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
